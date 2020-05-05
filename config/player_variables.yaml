@@ -1,0 +1,30 @@
+#config_version=5
+
+player_vars:
+  pichu_exp:
+    value_type: int
+    initial_value: 1
+
+  pikachu_exp:
+    value_type: int
+    initial_value: 1
+
+  raichu_exp:
+    value_type: int
+    initial_value: 1
+
+  gym1_pop:
+    value_type: int
+    initial_value: 0
+    
+  gym2_saucer:
+    value_type: int
+    initial_value: 0
+    
+  gym3_spinner:
+    value_type: int
+    initial_value: 0
+    
+  gym4_slingshot:
+    value_type: int
+    initial_value: 0

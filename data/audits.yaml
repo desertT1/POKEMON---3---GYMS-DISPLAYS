@@ -1,0 +1,37 @@
+events:
+  game_ended: 257
+  game_started: 318
+player:
+  score:
+    average: 227.0
+    top:
+    - 1053
+    - 828
+    - 828
+    - 808
+    - 778
+    - 726
+    - 724
+    - 722
+    - 706
+    - 673
+    total: 276
+switches:
+  s_drain: 2578
+  s_drop_center: 600
+  s_drop_left: 534
+  s_drop_right: 471
+  s_flipper_left: 6824
+  s_flipper_right: 9974
+  s_gym: 324
+  s_plunger_lane: 88
+  s_pop_bottom: 2516
+  s_pop_left: 10
+  s_pop_right: 2857
+  s_pop_top: 942
+  s_saucer: 1058
+  s_sling_left: 962
+  s_sling_right: 1133
+  s_spinner: 7904
+  s_start: 50
+  s_trough: 1444

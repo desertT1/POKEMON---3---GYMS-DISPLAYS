@@ -1,0 +1,32 @@
+2020-04-24 21:31:24,305 : kivy : Factory: 184 symbols loaded
+2020-04-24 21:31:25,125 : kivy : Image: Providers: img_tex, img_dds, img_sdl2, img_pil, img_gif (img_ffpyplayer ignored)
+2020-04-24 21:31:25,734 : kivy : VideoGstplayer: Using Gstreamer 1.16.0.0
+2020-04-24 21:31:25,735 : kivy : Video: Provider: gstplayer
+2020-04-24 21:31:25,939 : kivy : Loading MPF-MC controller
+2020-04-24 21:31:25,940 : mpfmc : Mission Pinball Framework Media Controller v0.53.3
+2020-04-24 21:31:25,940 : mpfmc : Mission Pinball Framework Game Engine v0.53.3
+2020-04-24 21:31:25,940 : mpfmc : Machine path: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS
+2020-04-24 21:31:25,942 : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\8e0664940aa22427d3308777c4b2dc9c.mpf_cache
+2020-04-24 21:31:25,942 : ConfigProcessor : Loading config from file c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpfmc\mcconfig.yaml.
+2020-04-24 21:31:25,999 : ConfigProcessor : Loading config: c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpfmc\mcconfig.yaml
+2020-04-24 21:31:26,027 : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\config\config.
+2020-04-24 21:31:26,087 : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\config\config
+2020-04-24 21:31:26,093 : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\config\player_variables.yaml
+2020-04-24 21:31:26,099 : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\config\key_mapping.yaml
+2020-04-24 21:31:26,101 : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\8e0664940aa22427d3308777c4b2dc9c.mpf_cache
+2020-04-24 21:31:26,102 : mpfmc : Starting clock at 60.0Hz
+2020-04-24 21:31:26,301 : kivy : Text: Provider: sdl2
+2020-04-24 21:31:26,379 : kivy : Window: Provider: sdl2
+2020-04-24 21:31:28,648 : kivy : GL: Using the "OpenGL" graphics system
+2020-04-24 21:31:28,650 : kivy : GL: GLEW initialization succeeded
+2020-04-24 21:31:28,650 : kivy : GL: Backend used <glew>
+2020-04-24 21:31:28,651 : kivy : GL: OpenGL version <b'4.5.0 NVIDIA 377.83'>
+2020-04-24 21:31:28,651 : kivy : GL: OpenGL vendor <b'NVIDIA Corporation'>
+2020-04-24 21:31:28,651 : kivy : GL: OpenGL renderer <b'Quadro 2000/PCIe/SSE2'>
+2020-04-24 21:31:28,651 : kivy : GL: OpenGL parsed version: 4, 5
+2020-04-24 21:31:28,651 : kivy : GL: Shading version <b'4.50 NVIDIA'>
+2020-04-24 21:31:28,651 : kivy : GL: Texture max size <16384>
+2020-04-24 21:31:28,651 : kivy : GL: Texture max units <32>
+2020-04-24 21:31:28,811 : kivy : Window: auto add sdl2 input provider
+2020-04-24 21:31:28,811 : kivy : Window: virtual keyboard not allowed, single mode, not docked
+2020-04-24 21:31:28,833 : SoundSystem : SoundSystem: Using default 'sound_system' settings

@@ -1,0 +1,170 @@
+2020-04-24 21:31:24,376 : INFO : Machine : Mission Pinball Framework Core Engine v0.53.3
+2020-04-24 21:31:24,377 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'mpfconfigfile': 'c:\\users\\almac\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\mpf\\mpfconfig.yaml', 'force_assets_load': False, 'jsonlogging': False, 'logfile': 'logs\\2020-04-24-21-31-24-mpf-DESKTOP-G75O39F.log', 'pause': False, 'production': False, 'text_ui': True, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': 'virtual', 'syslog_address': None, 'mc_file_name': None, 'no_sound': False}
+2020-04-24 21:31:24,377 : INFO : Machine : MPF path: c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf
+2020-04-24 21:31:24,377 : INFO : Machine : Machine path: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS
+2020-04-24 21:31:24,377 : INFO : Machine : Platform: win32
+2020-04-24 21:31:24,377 : INFO : Machine : Python executable location: c:\users\almac\appdata\local\programs\python\python36\python.exe
+2020-04-24 21:31:24,377 : INFO : Machine : Python version: 3.6.4 (64-bit)
+2020-04-24 21:31:24,377 : INFO : Machine : Machine config file #1: config.yaml
+2020-04-24 21:31:24,386 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\7e2eeb7adc3e9346d7ac40e0ea20ec1e.mpf_cache
+2020-04-24 21:31:24,386 : INFO : ConfigProcessor : Loading config from file c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\mpfconfig.yaml.
+2020-04-24 21:31:24,494 : INFO : ConfigProcessor : Loading config: c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\mpfconfig.yaml
+2020-04-24 21:31:25,011 : INFO : ConfigValidator : Config spec file cache created: C:\Users\almac\AppData\Local\Temp\config_spec.mpf_cache
+2020-04-24 21:31:25,020 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\config\config.yaml.
+2020-04-24 21:31:25,167 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\config\config.yaml
+2020-04-24 21:31:25,177 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\config\player_variables.yaml
+2020-04-24 21:31:25,188 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\config\key_mapping.yaml
+2020-04-24 21:31:25,191 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\7e2eeb7adc3e9346d7ac40e0ea20ec1e.mpf_cache
+2020-04-24 21:31:25,193 : INFO : Machine : Initialise MPF.
+2020-04-24 21:31:26,643 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2020-04-24 21:31:26,702 : INFO : EventManager : Event: ======'machine_var_player1_score'====== Args={'value': 325, 'prev_value': None, 'change': True}
+2020-04-24 21:31:26,703 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'MPF v0.53.3', 'prev_value': None, 'change': True}
+2020-04-24 21:31:26,703 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'MPF v0.53.3, Config version:5, Show version: 5, BCP version:1.1', 'prev_value': None, 'change': True}
+2020-04-24 21:31:26,703 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.6.4', 'prev_value': None, 'change': True}
+2020-04-24 21:31:26,703 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-10-10.0.18362-SP0', 'prev_value': None, 'change': True}
+2020-04-24 21:31:26,703 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2020-04-24 21:31:26,703 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '10', 'prev_value': None, 'change': True}
+2020-04-24 21:31:26,703 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.18362', 'prev_value': None, 'change': True}
+2020-04-24 21:31:26,703 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2020-04-24 21:31:26,704 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2020-04-24 21:31:26,937 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\b4d0867be334940cb466afaf69e313e7.mpf_cache
+2020-04-24 21:31:26,938 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym4_ended\config\gym4_ended.yaml.
+2020-04-24 21:31:26,978 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym4_ended\config\gym4_ended.yaml
+2020-04-24 21:31:26,979 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\b4d0867be334940cb466afaf69e313e7.mpf_cache
+2020-04-24 21:31:26,982 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\d82b7a83128fc96d7d48405814f40043.mpf_cache
+2020-04-24 21:31:26,982 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym8\config\gym8.yaml.
+2020-04-24 21:31:27,004 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym8\config\gym8.yaml
+2020-04-24 21:31:27,004 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\d82b7a83128fc96d7d48405814f40043.mpf_cache
+2020-04-24 21:31:27,007 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\5270a54f7cee61b1bf9856b60a57d455.mpf_cache
+2020-04-24 21:31:27,007 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym7\config\gym7.yaml.
+2020-04-24 21:31:27,040 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym7\config\gym7.yaml
+2020-04-24 21:31:27,041 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\5270a54f7cee61b1bf9856b60a57d455.mpf_cache
+2020-04-24 21:31:27,044 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\135345d98d09ebb631f1f4168ee4bddd.mpf_cache
+2020-04-24 21:31:27,044 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\base\config\base.yaml.
+2020-04-24 21:31:27,053 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\base\config\base.yaml
+2020-04-24 21:31:27,054 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\135345d98d09ebb631f1f4168ee4bddd.mpf_cache
+2020-04-24 21:31:27,057 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\91438244ab1d3b36dd5ddff5729565b7.mpf_cache
+2020-04-24 21:31:27,057 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym6_ended\config\gym6_ended.yaml.
+2020-04-24 21:31:27,076 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym6_ended\config\gym6_ended.yaml
+2020-04-24 21:31:27,077 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\91438244ab1d3b36dd5ddff5729565b7.mpf_cache
+2020-04-24 21:31:27,079 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\3b2410a2d0f22ddc5471ed1d5d270ef4.mpf_cache
+2020-04-24 21:31:27,079 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym2\config\gym2.yaml.
+2020-04-24 21:31:27,102 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym2\config\gym2.yaml
+2020-04-24 21:31:27,102 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\3b2410a2d0f22ddc5471ed1d5d270ef4.mpf_cache
+2020-04-24 21:31:27,105 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\742f7a6f2aeec6d5815b94fa17105685.mpf_cache
+2020-04-24 21:31:27,105 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\raichu\config\raichu.yaml.
+2020-04-24 21:31:27,139 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\raichu\config\raichu.yaml
+2020-04-24 21:31:27,140 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\742f7a6f2aeec6d5815b94fa17105685.mpf_cache
+2020-04-24 21:31:27,142 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\6c5cfa20d0385fd965d217711b1aeb32.mpf_cache
+2020-04-24 21:31:27,142 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym1_ended\config\gym1_ended.yaml.
+2020-04-24 21:31:27,159 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym1_ended\config\gym1_ended.yaml
+2020-04-24 21:31:27,160 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\6c5cfa20d0385fd965d217711b1aeb32.mpf_cache
+2020-04-24 21:31:27,162 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\df62c1fc2b449833116c5a0d3b15ea2a.mpf_cache
+2020-04-24 21:31:27,162 : INFO : ConfigProcessor : Loading config from file c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\modes\attract\config\attract.yaml.
+2020-04-24 21:31:27,165 : INFO : ConfigProcessor : Loading config: c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\modes\attract\config\attract.yaml
+2020-04-24 21:31:27,165 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\df62c1fc2b449833116c5a0d3b15ea2a.mpf_cache
+2020-04-24 21:31:27,171 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\4b2bbfab4b37dffa05003e5f79a27d96.mpf_cache
+2020-04-24 21:31:27,171 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym5\config\gym5.yaml.
+2020-04-24 21:31:27,190 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym5\config\gym5.yaml
+2020-04-24 21:31:27,191 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\4b2bbfab4b37dffa05003e5f79a27d96.mpf_cache
+2020-04-24 21:31:27,193 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\b0a148e38751c8c7cb9962eaeb77a00c.mpf_cache
+2020-04-24 21:31:27,193 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym5_ended\config\gym5_ended.yaml.
+2020-04-24 21:31:27,204 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym5_ended\config\gym5_ended.yaml
+2020-04-24 21:31:27,205 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\b0a148e38751c8c7cb9962eaeb77a00c.mpf_cache
+2020-04-24 21:31:27,207 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\de2b578fa5efd9234e099e7c8c874c24.mpf_cache
+2020-04-24 21:31:27,207 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym1\config\gym1.yaml.
+2020-04-24 21:31:27,234 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym1\config\gym1.yaml
+2020-04-24 21:31:27,234 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\de2b578fa5efd9234e099e7c8c874c24.mpf_cache
+2020-04-24 21:31:27,237 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\036748943cac56c7bd6ad88ab181e939.mpf_cache
+2020-04-24 21:31:27,237 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\pichu\config\pichu.yaml.
+2020-04-24 21:31:27,271 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\pichu\config\pichu.yaml
+2020-04-24 21:31:27,272 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\036748943cac56c7bd6ad88ab181e939.mpf_cache
+2020-04-24 21:31:27,274 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\540271016e8d863c0fb4bb8e695b1cee.mpf_cache
+2020-04-24 21:31:27,274 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym6\config\gym6.yaml.
+2020-04-24 21:31:27,289 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym6\config\gym6.yaml
+2020-04-24 21:31:27,289 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\540271016e8d863c0fb4bb8e695b1cee.mpf_cache
+2020-04-24 21:31:27,292 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\d4de016b91f785700931d2e051e1d4e7.mpf_cache
+2020-04-24 21:31:27,292 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\pikachu\config\pikachu.yaml.
+2020-04-24 21:31:27,324 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\pikachu\config\pikachu.yaml
+2020-04-24 21:31:27,325 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\d4de016b91f785700931d2e051e1d4e7.mpf_cache
+2020-04-24 21:31:27,328 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\8ddfb447de2b01e44b23216721dda7a3.mpf_cache
+2020-04-24 21:31:27,328 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym4\config\gym4.yaml.
+2020-04-24 21:31:27,343 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym4\config\gym4.yaml
+2020-04-24 21:31:27,344 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\8ddfb447de2b01e44b23216721dda7a3.mpf_cache
+2020-04-24 21:31:27,346 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\3269735834f21edcb798d27968bc80ec.mpf_cache
+2020-04-24 21:31:27,346 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym0\config\gym0.yaml.
+2020-04-24 21:31:27,357 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym0\config\gym0.yaml
+2020-04-24 21:31:27,357 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\3269735834f21edcb798d27968bc80ec.mpf_cache
+2020-04-24 21:31:27,369 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\0c2d4373de4c139b5caf1ae1d6efa159.mpf_cache
+2020-04-24 21:31:27,369 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym8_ended\config\gym8_ended.yaml.
+2020-04-24 21:31:27,393 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym8_ended\config\gym8_ended.yaml
+2020-04-24 21:31:27,393 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\0c2d4373de4c139b5caf1ae1d6efa159.mpf_cache
+2020-04-24 21:31:27,395 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\c2f57ef35704922bc3256703c75f30b3.mpf_cache
+2020-04-24 21:31:27,395 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\evolve_pikachu\config\evolve_pikachu.yaml.
+2020-04-24 21:31:27,421 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\evolve_pikachu\config\evolve_pikachu.yaml
+2020-04-24 21:31:27,421 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\c2f57ef35704922bc3256703c75f30b3.mpf_cache
+2020-04-24 21:31:27,433 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\171d817f4c89f5ac56c44dd1390284d8.mpf_cache
+2020-04-24 21:31:27,433 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym2_ended\config\gym2_ended.yaml.
+2020-04-24 21:31:27,444 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym2_ended\config\gym2_ended.yaml
+2020-04-24 21:31:27,445 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\171d817f4c89f5ac56c44dd1390284d8.mpf_cache
+2020-04-24 21:31:27,448 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\d9a03399118b20066f9cff89316d988f.mpf_cache
+2020-04-24 21:31:27,448 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\evolve_pichu\config\evolve_pichu.yaml.
+2020-04-24 21:31:27,504 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\evolve_pichu\config\evolve_pichu.yaml
+2020-04-24 21:31:27,505 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\d9a03399118b20066f9cff89316d988f.mpf_cache
+2020-04-24 21:31:27,507 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\21ceec6db30d530d29ceb2a24f580660.mpf_cache
+2020-04-24 21:31:27,507 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym7_ended\config\gym7_ended.yaml.
+2020-04-24 21:31:27,524 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym7_ended\config\gym7_ended.yaml
+2020-04-24 21:31:27,525 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\21ceec6db30d530d29ceb2a24f580660.mpf_cache
+2020-04-24 21:31:27,527 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\6a2515e5578170ee7c481918e8ad2f89.mpf_cache
+2020-04-24 21:31:27,527 : INFO : ConfigProcessor : Loading config from file c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\modes\game\config\game.yaml.
+2020-04-24 21:31:27,534 : INFO : ConfigProcessor : Loading config: c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\modes\game\config\game.yaml
+2020-04-24 21:31:27,534 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\6a2515e5578170ee7c481918e8ad2f89.mpf_cache
+2020-04-24 21:31:27,541 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\8cbd206737dd3ec2b0ce8f516406b405.mpf_cache
+2020-04-24 21:31:27,541 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym3_ended\config\gym3_ended.yaml.
+2020-04-24 21:31:27,552 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym3_ended\config\gym3_ended.yaml
+2020-04-24 21:31:27,553 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\8cbd206737dd3ec2b0ce8f516406b405.mpf_cache
+2020-04-24 21:31:27,555 : WARNING : ConfigProcessor : Cache file not found: C:\Users\almac\AppData\Local\Temp\a6ccd90d593a0a37a53caade155ad1ba.mpf_cache
+2020-04-24 21:31:27,555 : INFO : ConfigProcessor : Loading config from file C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym3\config\gym3.yaml.
+2020-04-24 21:31:27,570 : INFO : ConfigProcessor : Loading config: C:\Users\almac\Desktop\POKEMON - 3 - GYMS DISPLAYS\modes\gym3\config\gym3.yaml
+2020-04-24 21:31:27,570 : INFO : ConfigProcessor : Config file cache created: C:\Users\almac\AppData\Local\Temp\a6ccd90d593a0a37a53caade155ad1ba.mpf_cache
+2020-04-24 21:31:27,583 : ERROR : asyncio : Exception in callback EventManager._async_handler_done(<QueuedEvent>)(<Task finishe...at switch.",)>) at c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\core\events.py:99
+handle: <Handle EventManager._async_handler_done(<QueuedEvent>)(<Task finishe...at switch.",)>) at c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\core\events.py:99>
+Traceback (most recent call last):
+  File "c:\users\almac\appdata\local\programs\python\python36\lib\asyncio\events.py", line 145, in _run
+    self._callback(*self._args)
+  File "c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\core\events.py", line 102, in _async_handler_done
+    future.result()
+  File "c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\core\device_manager.py", line 117, in _load_device_modules
+    await self.initialize_devices()
+  File "c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\core\device_manager.py", line 213, in initialize_devices
+    await collection[device_name].device_added_system_wide()
+  File "c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\core\system_wide_device.py", line 15, in device_added_system_wide
+    await self._initialize()
+  File "c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\devices\autofire.py", line 70, in _initialize
+    self.config['playfield'].name), 1)
+  File "c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\core\logging.py", line 166, in raise_config_error
+    raise ConfigFileError(msg, error_no, self.log.name, context, self._url_base)
+mpf.exceptions.config_file_error.ConfigFileError: Config File Error in autofire.pop_top: Autofire device 'pop_top' uses switch 's_pop_top' which has a 'playfield_active' tag. This is handled internally by the device. Remove the redundant 'playfield_active' tag from that switch. Error Code: CFE-autofire-1 (https://docs.missionpinball.org/en/0.53/logs/CFE-autofire-1.html)
+2020-04-24 21:31:27,628 : INFO : Machine : Starting the main run loop.
+2020-04-24 21:31:27,638 : INFO : Machine : Shutting down...
+2020-04-24 21:31:27,638 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2020-04-24 21:31:27,639 : ERROR : Machine : Runtime Exception
+Traceback (most recent call last):
+  File "c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\core\machine.py", line 765, in _run_loop
+    raise self._exception['exception']
+  File "c:\users\almac\appdata\local\programs\python\python36\lib\asyncio\events.py", line 145, in _run
+    self._callback(*self._args)
+  File "c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\core\events.py", line 102, in _async_handler_done
+    future.result()
+  File "c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\core\device_manager.py", line 117, in _load_device_modules
+    await self.initialize_devices()
+  File "c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\core\device_manager.py", line 213, in initialize_devices
+    await collection[device_name].device_added_system_wide()
+  File "c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\core\system_wide_device.py", line 15, in device_added_system_wide
+    await self._initialize()
+  File "c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\devices\autofire.py", line 70, in _initialize
+    self.config['playfield'].name), 1)
+  File "c:\users\almac\appdata\local\programs\python\python36\lib\site-packages\mpf\core\logging.py", line 166, in raise_config_error
+    raise ConfigFileError(msg, error_no, self.log.name, context, self._url_base)
+mpf.exceptions.config_file_error.ConfigFileError: Config File Error in autofire.pop_top: Autofire device 'pop_top' uses switch 's_pop_top' which has a 'playfield_active' tag. This is handled internally by the device. Remove the redundant 'playfield_active' tag from that switch. Error Code: CFE-autofire-1 (https://docs.missionpinball.org/en/0.53/logs/CFE-autofire-1.html)
+2020-04-24 21:31:27,648 : INFO : root : MPF run loop ended.
